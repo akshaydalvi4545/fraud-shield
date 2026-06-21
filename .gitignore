@@ -1,3 +1,4 @@
 notebooks/.ipynb_checkpoints/*
 anaconda_projects/db/project_filebrowser.db
 .DS_Store
+notebooks/.virtual_documents/02_features.ipynb
